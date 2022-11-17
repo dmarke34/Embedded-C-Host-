@@ -1,0 +1,24 @@
+
+#include<stdio.h>
+
+int main(void) {
+
+	char asc1, asc2, asc3, asc4, asc5, asc6;
+
+	printf("Enter 6 characters of your choice: ");
+	scanf("%c %c %c %c %c %c %c", &asc1, &asc2, &asc3, &asc4, &asc5, &asc6);
+
+
+
+
+	printf("\nASCII codes: %c, %c, %c, %c, %c, %c", int(asc1), int(asc2), int(asc3), int(asc4), int(asc5), int(asc6));
+
+
+	while(getchar() != '\n') {
+
+	}
+	getchar();
+}
+
+
+

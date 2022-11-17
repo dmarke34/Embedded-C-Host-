@@ -1,0 +1,10 @@
+
+
+#include<stdio.h>
+
+int main(void) {
+
+	float number = 45.78976834578;
+
+	return 0;
+}

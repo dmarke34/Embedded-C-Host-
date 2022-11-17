@@ -1,0 +1,16 @@
+
+#include<stdio.h>
+
+int main(void) {
+
+	float number1, number2, number3;
+	float average;
+
+	printf("Enter the first number: ");
+	scanf("%f", &number1);
+	printf("Enter the second number: ");
+	scanf("%f", &number2);
+	printf("Enter the third number: ");
+	scanf("%f", &number3);
+}
+
